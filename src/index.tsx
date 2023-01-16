@@ -7,52 +7,45 @@ import './css/normalize.css';
 const items = [
   {
     title: 'Website',
-    subtitle: 'Look at my work!',
+    subtitle: 'Luis Cosio\'s personal website',
     type: CHANNEL_TYPES.WEBSITE,
-    link: 'https://sagniksahoo.codes', //your personal website or portfolio  link
+    link: 'https://www.luiscos.io', //your personal website or portfolio  link
   },
   {
     title: 'GitHub',
-    subtitle: '@heysagnik | 🏡 to all my open-source projects',
+    subtitle: '@luiscosio',
     type: CHANNEL_TYPES.GITHUB,
-    link: 'https://github.com/heysagnik', //Github Profile link
+    link: 'https://github.com/luiscosio', //Github Profile link
   },
   {
     title: 'Instagram',
-    subtitle: '@heysagnik |  Shots of my life 🙂',
+    subtitle: '@luiscosio',
     type: CHANNEL_TYPES.INSTAGRAM,
-    link: 'https://instagram.com/heysagnik', //instagram profile link
+    link: 'https://instagram.com/luiscosio', //instagram profile link
   },
   {
     title: 'Twitter',
-    subtitle: '@heysagnik | 😉',
+    subtitle: '@luiscosio',
     type: CHANNEL_TYPES.TWITTER,
-    link: 'https://twitter.com/heysagnik', // twitter profile link
+    link: 'https://twitter.com/luiscosio', // twitter profile link
   },
   {
     title: 'LinkedIn',
-    subtitle: 'Know more about my profession 👨‍💼',
+    subtitle: 'luiscosio',
     type: CHANNEL_TYPES.LINKEDIN,
-    link: 'https://www.linkedin.com/in/heysagnik/', // linkedin
+    link: 'https://www.linkedin.com/in/luiscosio/', // linkedin
   },
   {
     title: 'YouTube',
-    subtitle: 'CODER SAGNIK | Official channel of mine',
+    subtitle: 'Luis Cosio\'s channel',
     type: CHANNEL_TYPES.YOUTUBE,
-    link: 'https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg', //youtube channel link
-  },
-
-  {
-    title: 'Dribbble',
-    subtitle: '@virtuonic | shots of dezigns ',
-    type: CHANNEL_TYPES.DRIBBLE,
-    link: 'https://dribbble.com/virtuonic', // Dribbble profile link
+    link: 'https://www.youtube.com/@luis-cosio', //youtube channel link
   },
   {
-    title: 'Telegram',
-    subtitle: '@heysagnik | Chat with me instantly ',
+    title: 'luiscosio.cb.id',
+    subtitle: 'Crypto wallets',
     type: CHANNEL_TYPES.TELEGRAM,
-    link: 'https://telegram.me/heysagnik', //Telegram Pofile
+    link: 'https://luiscosio.cb.id', // ENS
   },
 ];
 
