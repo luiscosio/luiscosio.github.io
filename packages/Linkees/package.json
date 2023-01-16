@@ -1,7 +1,7 @@
 {
-  "name": "linkees",
+  "name": "luiscosio.github.io",
   "version": "1.0.1",
-  "description": "A beautiful Single Page component made with React to display all your important social links for your followers (Alternative to linktr.ee).",
+  "description": "Personal website of Luis Cosio",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf dist",
@@ -11,23 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heysagnik/Linkees.git"
+    "url": "git+https://github.com/luiscosio/luiscosio.github.io.git"
   },
-  "keywords": [
-    "linktr.ee",
-    "linktree"
-  ],
-  "author": "Sagnik Sahoo",
-  "license": "ISC",
+  "author": "Luis Cosio",
+  "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/heysagnik/Linkees/issues"
+    "url": "https://github.com/luiscosio/luiscosio.github.io/issues"
   },
   "husky": {
     "hooks": {
       "pre-commit": "npm run prettier-fix"
     }
   },
-  "homepage": "https://github.com/heysagnik/Linkees#readme",
+  "homepage": "https://github.com/luiscosio/luiscosio.github.io",
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
